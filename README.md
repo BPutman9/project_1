@@ -7,9 +7,9 @@
 Our team is building a robo advisor to help individual investors assess potential investment performance based on their:
 
 - Investment horizon
-- Initial investment and future contributions
-- Appetite for risk
+- Initial investment amount and future contributions
 - Asset selection
+- Appetite for risk
 
 ## Project Goal ##
 
