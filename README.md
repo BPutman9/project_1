@@ -2,6 +2,8 @@
 
 ![](https://digital.hbs.edu/platform-rctom/wp-content/uploads/sites/4/2018/11/investorjunkie-robo-advisors-4-1-421x200.jpg)
 
+##Day 2 ##
+
 ## Project Summary ##
 
 Our team is building a robo advisor to help individual investors assess potential investment performance based on their:
