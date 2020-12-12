@@ -2,7 +2,7 @@
 
 ![](https://digital.hbs.edu/platform-rctom/wp-content/uploads/sites/4/2018/11/investorjunkie-robo-advisors-4-1-421x200.jpg)
 
-##Day 2 ##
+## Day 1 ##
 
 ## Project Summary ##
 
@@ -23,3 +23,5 @@ Leverage the user inputs to feed our Python code to make the process as automate
 - How does a user's aggressive, moderate, or conservative investment approach affect long-term gains?
 - Do annual contributions have a material impact the compounding of the portfolio's return?
 - Does rebalancing the portfolio meaningfully improve the performance of the retirement portfolio?
+
+## Day 2 ##
