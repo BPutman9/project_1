@@ -24,4 +24,30 @@ Leverage the user inputs to feed our Python code to make the process as automate
 - Do annual contributions have a material impact the compounding of the portfolio's return?
 - Does rebalancing the portfolio meaningfully improve the performance of the retirement portfolio?
 
-## Day 2 ##
+### Our Data Set ###
+
+Our data was generated using the Alpaca API. We chose a 10 year historical window as 10 year historical performance is an industry standard in assessing an asset's performance
+We also felt this date range covered both up and down markets so as to not risk being skewed by using a shorter timeframe
+
+### The Questions We Will Address ###
+
+- How can we create both a low cost option, while still providing the client with guidance along the way?
+- Can we leverage user input to offer a variety of investment options?
+- Can we help motivate an investor by showing them the cost of doing nothing?
+
+### The Packages to be Used ###
+
+- Pandas
+- Panel
+- OS 
+- Dotenv
+- Hvplots
+- Plotly Express
+- Alpaca Trade API
+- Matplotlib
+
+### Analysis Methods to be Used ###
+- Returns and cumulative returns
+- Standard deviation
+- Monte Carlo simulation
+- Data plotting and visualization   
