@@ -24,6 +24,8 @@ Leverage the user inputs to feed our Python code to make the process as automate
 - Do annual contributions have a material impact the compounding of the portfolio's return?
 - Does rebalancing the portfolio meaningfully improve the performance of the retirement portfolio?
 
+## Day 2 ##
+
 ### Our Data Set ###
 
 Our data was generated using the Alpaca API. We chose a 10 year historical window as 10 year historical performance is an industry standard in assessing an asset's performance
