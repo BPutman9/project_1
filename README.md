@@ -26,6 +26,7 @@ Leverage the user inputs to feed our Python code to make the process as automate
 
 ## Day 2 ##
 
+
 ### Our Data Set ###
 
 Our data was generated using the Alpaca API. We chose a 10 year historical window as 10 year historical performance is an industry standard in assessing an asset's performance
@@ -53,3 +54,4 @@ We also felt this date range covered both up and down markets so as to not risk 
 - Standard deviation
 - Monte Carlo simulation
 - Data plotting and visualization   
+
