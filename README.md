@@ -55,3 +55,14 @@ We also felt this date range covered both up and down markets so as to not risk 
 - Monte Carlo simulation
 - Data plotting and visualization   
 
+## Day 3 ##
+
+- Further code development
+- PowerPoint draft presentation created
+
+## Day 4 ##
+
+- Edge testing performed
+- Additional visualizations created
+- Iteration to allow for both a starting investment amount as well as recurring investment amount added
+- Python library not used in class added
